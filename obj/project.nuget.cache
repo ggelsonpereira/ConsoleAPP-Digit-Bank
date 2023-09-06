@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrHE6VjAFTRdYZs9GxYWVpJoE1LbDKWiIFjXgSINaXd4oCcRfbLZO42VkRc9rVO9ZdClvkmykNpztosLj/R23g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gelso\\source\\repos\\TempConsoleApp1\\TempConsoleApp1\\TempConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gelso\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\gelso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\gelso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\gelso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
